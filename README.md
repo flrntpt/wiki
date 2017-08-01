@@ -1,6 +1,6 @@
 I use this wiki to keep track of things I learned about Computer Sciences and Data Sciences.
 
-I also use a few gist as cheatsheets (these are not meant to be exhaustive):
+I also use those cheatsheets (these are not meant to be exhaustive):
 * Ubuntu: https://gist.github.com/florentpietot/d9c2ad9687086f9054a5371f15b3ec05
 * VIM: https://gist.github.com/florentpietot/273bee055a8f5bff44cc354d9a95c99e
 * Tmux: https://gist.github.com/florentpietot/0ce69e9db45f3fa6146b9f81292cae65
