@@ -1,4 +1,3 @@
-# wiki
 I use this wiki to keep track of things I learned about Computer Sciences and Data Sciences.
 
 I also use a few gist as cheatsheets (these are not meant to be exhaustive):
