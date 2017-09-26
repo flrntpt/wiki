@@ -1,5 +1,4 @@
-I use this wiki to keep track of things I learned about Computer Sciences and Data Sciences.
-
+I use this wiki to keep track of things I don't want to forget. It's mostly about maths, computer sciences and management of my systems (MacOS, Ubuntu, Raspbian)
 I also use those cheatsheets (these are not meant to be exhaustive):
 * Ubuntu: https://gist.github.com/florentpietot/d9c2ad9687086f9054a5371f15b3ec05
 * VIM: https://gist.github.com/florentpietot/273bee055a8f5bff44cc354d9a95c99e
